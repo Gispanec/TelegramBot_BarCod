@@ -1,0 +1,1 @@
+bot_key = "1935489575:AAG-id-ABP7hV5K-YGoS-I4xNYJso8HeM_M"
